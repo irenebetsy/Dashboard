@@ -39,3 +39,7 @@ The dashboard provides a comprehensive view of workforce insights, helping HR te
 - Offers interactive and dynamic visualizations for better insights.
 
 ---
+
+## 🧑‍💻 Author
+
+Developed by: Irene Betsy D
